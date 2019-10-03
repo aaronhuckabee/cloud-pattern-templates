@@ -3,7 +3,7 @@ This template shows a simple web server built with an API gateway, a Lambda func
 Posting to the API gateway "/addFramework
 with a body of 
 {
-    "GithubURL":"https://github.com/vuejs",
+    "GithubURL":"https://github.com/vuejs/vuejs",
     "Year": "2013"
 }
 should add an item to the dynamoDB table.
